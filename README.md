@@ -6,4 +6,6 @@ znovupřišel 10.12.19
 a ještě jednu větu 10.12.19
 a další notepadem++
   a další jestli bez konfliktu
+jiný text do master
+  
   
