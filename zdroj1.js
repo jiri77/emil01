@@ -5,3 +5,5 @@
     this.heroService.getHero(id)
       .subscribe(hero => this.hero = hero);
   }
+  Array x = 5;
+  
