@@ -6,4 +6,9 @@
       .subscribe(hero => this.hero = hero);
 # vlastně
   }
+<<<<<<< HEAD
 i long = 798798;
+=======
+  Array x = 5;
+  
+>>>>>>> druhý z vs do master
