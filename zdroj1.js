@@ -6,3 +6,4 @@
       .subscribe(hero => this.hero = hero);
 # vlastně
   }
+i long = 798798;
