@@ -7,5 +7,6 @@
   }
   Array x = 5;
   long i = 79879;
+String tadyVmasteru = "něco jinýho než před chvílí do develop";  
   String pepa = "Pepa";
   String model1 = "vůbec neomotal";
