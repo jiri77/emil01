@@ -8,8 +8,4 @@
   Array x = 5;
   long i = 79879;
   String pepa = "Pepa";
-<<<<<<< develop
-  
-=======
   String model1 = "vůbec neomotal";
->>>>>>> local
