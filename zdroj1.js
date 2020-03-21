@@ -9,3 +9,5 @@
   long i = 79879;
   String pepa = "Pepa";
   String model1 = "vůbec neomotal";
+  
+  String poRebase = "tak schválně";
