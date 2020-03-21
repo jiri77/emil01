@@ -10,5 +10,7 @@
 i long = 798798;
 =======
   Array x = 5;
+  long i = 79879;
+  String pepa = "Pepa";
   
 >>>>>>> druhý z vs do master
