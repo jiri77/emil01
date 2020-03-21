@@ -6,4 +6,6 @@
       .subscribe(hero => this.hero = hero);
   }
   Array x = 5;
+  long i = 79879;
+  String pepa = "Pepa";
   
